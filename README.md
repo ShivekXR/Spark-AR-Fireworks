@@ -42,8 +42,8 @@ For more information, go to the official website: [ShivekXR.com/SimpleFireworks]
 ### <img src="https://shivekxr.com/git/youtube.png" align="left" width="28"/>Video
 <a href="https://www.youtube.com/watch?v=nf8ZYeu8ATI" title="YouTube - Simple Fireworks"><img src="https://shivekxr.com/git/simple_fireworks_yt.jpg"/></a>
 ### <p><img src="https://shivekxr.com/git/spark.png" align="left" width="28" padding="0"/>Test links</p>
-<p><a href="https://www.instagram.com/ar/245049760284241/" title="Instagram filter"><img src="https://shivekxr.com/git/instagram.png" align="left" width="24"/>Fireworks Example on Instagram</a></p>
-<p><a href="https://www.facebook.com/fbcameraeffects/tryit/245049760284241/" title="Facebook Camera Effects"><img src="https://shivekxr.com/git/facebook.png" align="left" width="24"/>Fireworks Example on Facebook Camera Effects</a></p>
+<p><a href="https://www.instagram.com/ar/4214769338549913/" title="Instagram filter"><img src="https://shivekxr.com/git/instagram.png" align="left" width="24"/>Fireworks Example on Instagram</a></p>
+<p><a href="https://www.facebook.com/fbcameraeffects/tryit/4214769338549913/" title="Facebook Camera Effects"><img src="https://shivekxr.com/git/facebook.png" align="left" width="24"/>Fireworks Example on Facebook Camera Effects</a></p>
 
 ## FAQ
 ### Is the project free?
