@@ -2,6 +2,8 @@
 <img src="https://raw.githubusercontent.com/ShivekXR/SimpleFireworks/master/icon.png" align="right" width="200px"/>
 
 - [Description](#description)
+  - [Fireworks Face Camera Filter example](#fireworks-face-camera-filter-example)
+  - [Fireworks World Effect example](#fireworks-world-effect-example)
 - [Downloads](#downloads)
 - [Preview](#preview)
   - [Video](#video)
@@ -23,10 +25,10 @@
 ## Description
 Super-duper fireworks with easy-to-use properties. 100% patches, no JavaScript. There are two examples which will help you creating marvelous AR experiences. The best starter kit for the New Years filters.
 
-**Fireworks Face Camera Filter example**
+### Fireworks Face Camera Filter example
 If you are a beginner, I recommend starting with this project. It will quickly show you how to use the SimpleFireworks Block. Once you learn the Block properties, you should try to check what is hidden inside of it.
 
-**Fireworks World Effect example**
+### Fireworks World Effect example
 There are three unique types of SimpleFireworks. Each of them is launched on the rocket. The ScreenTap spawns the rocket in the front of the user. 
 
 Made by Piotr "Shivek" Szafrański with **Spark AR v104** for **Windows**
