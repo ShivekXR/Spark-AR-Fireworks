@@ -1,5 +1,5 @@
 # Spark AR Fireworks
-<img src="https://raw.githubusercontent.com/ShivekXR/Spark-AR-Fireworks/master/icon.jpg" align="right" width="200px"/>
+<img src="https://raw.githubusercontent.com/ShivekXR/Spark-AR-Fireworks/main/icon.jpg" align="right" width="200px"/>
 
 - [Description](#description)
   - [Fireworks Selfie example](#fireworks-selfie-example)
@@ -35,7 +35,7 @@ There are three unique types of Fireworks. Each of them is launched on the rocke
 For more information, visit the official website: [ShivekXR.com/Spark-AR-Fireworks](http://ShivekXR.com/Spark-AR-Fireworks)
 
 ## Downloads
-[Click here to download the latest version of the project.](https://github.com/ShivekXR/Spark-AR-Fireworks/archive/master.zip)
+[Click here to download the latest version of the project.](https://github.com/ShivekXR/Spark-AR-Fireworks/archive/main.zip)
 
 ## Preview
 ### <img src="https://shivekxr.com/git/youtube.png" align="left" width="28"/>Video
