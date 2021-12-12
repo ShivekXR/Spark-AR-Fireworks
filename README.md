@@ -1,9 +1,9 @@
-# Simple Fireworks
-<img src="https://raw.githubusercontent.com/ShivekXR/SimpleFireworks/master/icon.png" align="right" width="200px"/>
+# Spark AR Fireworks
+<img src="https://raw.githubusercontent.com/ShivekXR/Spark-AR-Fireworks/master/icon.jpg" align="right" width="200px"/>
 
 - [Description](#description)
-  - [Fireworks Face Camera Filter example](#fireworks-face-camera-filter-example)
-  - [Fireworks World Effect example](#fireworks-world-effect-example)
+  - [Fireworks Selfie example](#fireworks-selfie-example)
+  - [Fireworks World example](#fireworks-world-example)
 - [Downloads](#downloads)
 - [Preview](#preview)
   - [Video](#video)
@@ -23,33 +23,32 @@
 - [Credits](#credits)
 
 ## Description
-Super-duper fireworks with easy-to-use properties. 100% patches, no JavaScript. There are two examples which will help you creating marvelous AR experiences. The best starter kit for the New Years filters.
+Super-duper fireworks with easy-to-use properties. 100% patches, no JavaScript. There are two examples which will help you create marvelous AR experiences. The best starter kit for New Years effects.
 
-### Fireworks Face Camera Filter example
-If you are a beginner, I recommend starting with this project. It will quickly show you how to use the SimpleFireworks Block. Once you learn the Block properties, you should try to check what is hidden inside of it.
+### Fireworks Selfie example
+If you are a beginner, I recommend starting with this project. It will quickly show you how to use the Spark AR Fireworks Block. Once you learn the Block properties, you should try to check what is hidden inside of it.
 
-### Fireworks World Effect example
-There are three unique types of SimpleFireworks. Each of them is launched on the rocket. The ScreenTap spawns the rocket in the front of the user. 
+### Fireworks World example
+There are three unique types of Fireworks. Each of them is launched on the rocket. The ScreenTap spawns the rocket in the front of the user.
 
-Made by Piotr "Shivek" Szafrański with **Spark AR v104** for **Windows**
-
-For more information, go to the official website: [ShivekXR.com/SimpleFireworks](http://ShivekXR.com/SimpleFireworks)
+---
+For more information, visit the official website: [ShivekXR.com/Spark-AR-Fireworks](http://ShivekXR.com/Spark-AR-Fireworks)
 
 ## Downloads
-[Click here to download the latest version of the project.](https://github.com/ShivekXR/SimpleFireworks/archive/master.zip)
+[Click here to download the latest version of the project.](https://github.com/ShivekXR/Spark-AR-Fireworks/archive/master.zip)
 
 ## Preview
 ### <img src="https://shivekxr.com/git/youtube.png" align="left" width="28"/>Video
-<a href="https://www.youtube.com/watch?v=nf8ZYeu8ATI" title="YouTube - Simple Fireworks"><img src="https://shivekxr.com/git/simple_fireworks_yt.jpg"/></a>
+<a href="https://www.youtube.com/watch?v=nf8ZYeu8ATI" title="YouTube - Spark AR Fireworks"><img src="https://shivekxr.com/git/spark_ar_fireworks_yt.jpg"/></a>
 ### <p><img src="https://shivekxr.com/git/spark.png" align="left" width="28" padding="0"/>Test links</p>
-<p><a href="https://www.instagram.com/ar/4214769338549913/" title="Instagram filter"><img src="https://shivekxr.com/git/instagram.png" align="left" width="24"/>Fireworks Example on Instagram</a></p>
-<p><a href="https://www.facebook.com/fbcameraeffects/tryit/4214769338549913/" title="Facebook Camera Effects"><img src="https://shivekxr.com/git/facebook.png" align="left" width="24"/>Fireworks Example on Facebook Camera Effects</a></p>
+<p><a href="https://www.instagram.com/ar/4214769338549913/" title="Instagram filter"><img src="https://shivekxr.com/git/instagram.png" align="left" width="24"/>Try Spark AR Fireworks on Instagram</a></p>
+<p><a href="https://www.facebook.com/fbcameraeffects/tryit/4214769338549913/" title="Facebook Camera Effects"><img src="https://shivekxr.com/git/facebook.png" align="left" width="24"/>Try Spark AR Fireworks on Facebook</a></p>
 
 ## FAQ
 ### Is the project free?
 Yes, the project is free to use. I have created the project for educational purposes, for any AR enthusiasts. Don’t hesitate and modify the project and share the results! Let me know what you have created by tagging me on social media platforms!  
 ### With which version of Spark AR Studio should I open the project?
-Always try to open the project with the newest Spark AR version possible. But if you find it too buggy or you are unable to open it, then try the noted version from the [description](#description).
+Always try to open the project with the up-to-date Spark AR Studio. But if you find it too buggy or you are unable to open it, then try the original version (Spark AR **v127.1**) used to create this project.
 ### Can I use the project commercially?
 Sure, but first check the [GOOD_DEED](https://ShivekXR.com/GoodDeed/) Terms.
 ### Do I need a license to use the project?
@@ -66,16 +65,19 @@ Unfortunately, I am not yet, but I cheer the idea of meat-free burgers.
 I am glad that you like my project and that it helped you create a cool AR effect! I put a lot of effort into creating tutorials and projects for you. If you find them helpful, consider following me on social media platforms. Check the [Author section](#author) for the links. Thank you!
 
 ## Changelog
-- 29 Dec 2020
-  - Face Camera Fireworks example
-  - World Effect Fireworks example
-  - SimpleFireworks Block
+- **v2** (2021 Dec 12)
+  - Change Block Shader Mode to Flat
+  - Rename Files
+- **v1** (2020 Dec 29)
+  - Fireworks Selfie example
+  - Fireworks World example
+  - Fireworks Block
 
 ## Author
 <a href="https://ShivekXR.com" title="ShivekXR.com - Check my official website for more projects!"><img src="https://shivekxr.com/git/shivek.png" height="175px" align="left"/></a>
 <br><b>Piotr "Shivek" Szafrański</b>
 <br>Creative Developer
-<br><a href="mailto:contact@shivekxr.com">contact@shivekxr.com</a>
+<br><a href="mailto:mailbox@shivekxr.com">mailbox@shivekxr.com</a>
 <br><a href="https://ShivekXR.com" title="ShivekXR.com - Check my official website for more projects!"><b>ShivekXR.com</b></a>
 <br>
 <br><a href="https://www.facebook.com/ShivekXR" title="Like my Facebook profile"><img src="https://shivekxr.com/git/facebook.png" width="32px"/></a>
@@ -85,4 +87,4 @@ I am glad that you like my project and that it helped you create a cool AR effec
 &nbsp;&nbsp;<a href="https://twitter.com/ShivekXR" title="Follow me on Twitter"><img src="https://shivekxr.com/git/twitter.png" width="32px"/></a>
 
 ## Credits
-Made by Piotr "Shivek" Szafrański with Spark AR Studio <https://sparkar.facebook.com>
+Made by **Piotr "Shivek" Szafrański** with **Spark AR Studio** <https://sparkar.facebook.com>
