@@ -65,6 +65,9 @@ Unfortunately, I am not yet, but I cheer the idea of meat-free burgers.
 I am glad that you like my project and that it helped you create a cool AR effect! I put a lot of effort into creating tutorials and projects for you. If you find them helpful, consider following me on social media platforms. Check the [Author section](#author) for the links. Thank you!
 
 ## Changelog
+- **v3** (2021 Dec 13)
+  - Add Rocket placeholder model
+  - Add built-in World Object swap tooltip
 - **v2** (2021 Dec 12)
   - Change Block Shader Mode to Flat
   - Rename Files
